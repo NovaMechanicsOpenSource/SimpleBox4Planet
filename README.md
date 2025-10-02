@@ -17,22 +17,6 @@ Developed by **NovaMechanics Ltd**, it simulates the environmental **fate, trans
 
 ---
 
-## 📚 Model Provenance & References
-
-The web tool presented here runs the **SimpleBox version 4.04** model published on **05/04/2024**, based on the works below:
-
-- Hollander, A.; Schoorl, M.; van de Meent, D. *SimpleBox 4.0: Improving the model while keeping it simple…*. **Chemosphere** 2016, 148, 99–107. [link]
-- Schoorl, M.; Hollander, A.; van de Meent, D. *SimpleBox 4.0. A multimedia mass balance model for evaluating the fate of chemical substances*. **RIVM Report** 2015. [link]
-- Den Hollander, H.; Van Eijkeren, J.; Van de Meent, D. *SimpleBox 3.0: multimedia mass balance model for evaluating the fate of chemicals in the environment*. **RIVM Report** 2004, 601200003. [link]
-- Brandes, L.; Den Hollander, H. *SimpleBox 2.0: a nested multimedia fate model for evaluating the environmental fate of chemicals*. 1996. [link]
-- Meent, D. *SimpleBox: a generic multimedia fate evaluation model*; National Institute of Public Health and Environmental Protection, 1993. [link]
-
-**Upstream repositories and archives:**
-- GitHub repository: https://github.com/rivm-syso/SimpleBox/tree/xl_v4.0.4  
-- Zenodo repository: https://zenodo.org/records/10934046
-
----
-
 ## 💶 Funding
 
 This work has received funding from the **European Union’s Horizon Europe research and innovation programme** under the **PROPLANET project**, Grant Agreement No. **101091842**.
@@ -43,6 +27,22 @@ This work has received funding from the **European Union’s Horizon Europe rese
 
 Access the online version of SimpleBox4Planet here:  
 🔗 [https://www.enaloscloud.novamechanics.com/proplanet/simplebox4planet/](https://www.enaloscloud.novamechanics.com/proplanet/simplebox4planet/)
+
+---
+
+## 📚 Model References
+
+The web tool runs the **SimpleBox version 4.04** model published on **05/04/2024**, based on the works below:
+
+- Hollander, A.; Schoorl, M.; van de Meent, D. *SimpleBox 4.0: Improving the model while keeping it simple…*. **Chemosphere** 2016, 148, 99–107. [link]
+- Schoorl, M.; Hollander, A.; van de Meent, D. *SimpleBox 4.0. A multimedia mass balance model for evaluating the fate of chemical substances*. **RIVM Report** 2015. [link]
+- Den Hollander, H.; Van Eijkeren, J.; Van de Meent, D. *SimpleBox 3.0: multimedia mass balance model for evaluating the fate of chemicals in the environment*. **RIVM Report** 2004, 601200003. [link]
+- Brandes, L.; Den Hollander, H. *SimpleBox 2.0: a nested multimedia fate model for evaluating the environmental fate of chemicals*. 1996. [link]
+- Meent, D. *SimpleBox: a generic multimedia fate evaluation model*; National Institute of Public Health and Environmental Protection, 1993. [link]
+
+**Upstream repositories and archives:**
+- GitHub repository: https://github.com/rivm-syso/SimpleBox/tree/xl_v4.0.4  
+- Zenodo repository: https://zenodo.org/records/10934046
 
 ---
 
