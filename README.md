@@ -34,11 +34,11 @@ Access the online version of SimpleBox4Planet here:
 
 The web tool runs the **SimpleBox version 4.04** model published on **05/04/2024**, based on the works below:
 
-- Hollander, A.; Schoorl, M.; van de Meent, D. *SimpleBox 4.0: Improving the model while keeping it simple…*. **Chemosphere** 2016, 148, 99–107. [link]
-- Schoorl, M.; Hollander, A.; van de Meent, D. *SimpleBox 4.0. A multimedia mass balance model for evaluating the fate of chemical substances*. **RIVM Report** 2015. [link]
-- Den Hollander, H.; Van Eijkeren, J.; Van de Meent, D. *SimpleBox 3.0: multimedia mass balance model for evaluating the fate of chemicals in the environment*. **RIVM Report** 2004, 601200003. [link]
-- Brandes, L.; Den Hollander, H. *SimpleBox 2.0: a nested multimedia fate model for evaluating the environmental fate of chemicals*. 1996. [link]
-- Meent, D. *SimpleBox: a generic multimedia fate evaluation model*; National Institute of Public Health and Environmental Protection, 1993. [link]
+- Hollander, A.; Schoorl, M.; van de Meent, D. *SimpleBox 4.0: Improving the model while keeping it simple…*. **Chemosphere** 2016, 148, 99–107. [link](https://www.sciencedirect.com/science/article/abs/pii/S0045653516300066)
+- Schoorl, M.; Hollander, A.; van de Meent, D. *SimpleBox 4.0. A multimedia mass balance model for evaluating the fate of chemical substances*. **RIVM Report** 2015. [link](https://www.rivm.nl/bibliotheek/rapporten/2015-0161.pdf)
+- Den Hollander, H.; Van Eijkeren, J.; Van de Meent, D. *SimpleBox 3.0: multimedia mass balance model for evaluating the fate of chemicals in the environment*. **RIVM Report** 2004, 601200003. [link](https://www.rivm.nl/sites/default/files/2018-11/SimpleBox%203.0%20-%20Multimedia%20mass%20balance%20model%20for%20evaluating%20the%20fate%20of%20chemical%20in%20the%20environment.pdf)
+- Brandes, L.; Den Hollander, H. *SimpleBox 2.0: a nested multimedia fate model for evaluating the environmental fate of chemicals*. 1996. [link](https://www.rivm.nl/bibliotheek/rapporten/719101029.pdf)
+- Meent, D. *SimpleBox: a generic multimedia fate evaluation model*; National Institute of Public Health and Environmental Protection, 1993. [link](https://www.rivm.nl/bibliotheek/rapporten/672720001.pdf)
 
 **Upstream repositories and archives:**
 - GitHub repository: https://github.com/rivm-syso/SimpleBox/tree/xl_v4.0.4  
